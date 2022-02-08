@@ -6,8 +6,8 @@ BloodPressure info(&SerialB);
 
 
 void setup(){
- Serial.begin(9600);
- SerialB.begin(9600);
+Serial.begin(9600);
+SerialB.begin(9600);
 }
 
 void loop(){
