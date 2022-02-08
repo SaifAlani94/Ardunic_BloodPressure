@@ -1,5 +1,5 @@
 # Ardunic_BloodPressure
-Arduino library for the Blood Pressure Device. This library is very simple and intuitive to use.
+Arduino library for the Ardunic Blood Pressure Device. This library is very simple and intuitive to use.
 
 For example, we can get the systolic blood pressure, diastolic blood pressure, & Heart rate with just a few lines of code:
 ```
