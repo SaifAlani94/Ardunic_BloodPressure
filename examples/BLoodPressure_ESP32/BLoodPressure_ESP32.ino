@@ -15,5 +15,5 @@ info.update();
 Serial.print("SYS = " + String(info.GetSYS()));
 Serial.print(" DIA = " + String(info.GetDIA()));
 Serial.println(" HR = " + String(info.GetHR()));
-  delay(1000);
+delay(1000);
 }
