@@ -1,6 +1,6 @@
 #include <Ardunic_BloodPressure.h>
 
-// Define the Hardware serial port for your arduino
+// Define the hardware serial port for your arduino
 BloodPressure info(&Serial2);  // Hardware serial2 for arduino mega was used as an example.
 
 
