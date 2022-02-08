@@ -23,7 +23,7 @@ See the included [examples](https://github.com/SaifAlani94/Ardunic_BloodPressure
 
 
 ## Installation
-This library uses the [SerialTransfer](https://www.arduino.cc/reference/en/libraries/serialtransfer/) library "This library was tested on SerialTransfer library Version 3.1.2", so you will need to have this installed. Install it using the Library Manager in the Arduino IDE.
+This library uses the [SerialTransfer](https://www.arduino.cc/reference/en/libraries/serialtransfer/) library **"This library was tested on SerialTransfer library Version 3.1.2"**, so you will need to have this installed. Install it using the Library Manager in the Arduino IDE.
 
 
 ## Wiring the Ardunic Blood Pressure device
