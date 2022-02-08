@@ -1,0 +1,19 @@
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Ardunic_BloodPressure	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+BloodPressure	KEYWORD2
+update	KEYWORD2
+GetSYS	KEYWORD2
+GetDIA	KEYWORD2
+GetHR	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
